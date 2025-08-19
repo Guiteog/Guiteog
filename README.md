@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou [Seu Nome Aqui]
+# 👋 Olá! Eu sou Guilherme
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em **Full Stack**, **integração entre Front-End** e **Back-End**, **desenvolvimento de aplicações funcionais** e **Desenvolvimento de ia**
 
 ---
 
@@ -32,9 +32,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **guess-the-flag 1** | [🔗 Ver online]([https://seu-link.com](https://github.com/Guiteog/guess-the-flag)) | HTML / CSS / JS / NODE RED / NGROK|
+| **Lagun-School 2** | [🔗 Ver online]([https://seu-link.com](https://github.com/Guiteog/Lagun-School)) |  HTML / CSS / JS|
+| **Orbis 3** | [🔗 Ver online]([https://seu-link.com](https://github.com/Guiteog/Orbis)) | HTML / CSS / JS / PY / LLM|
 
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
